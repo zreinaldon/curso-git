@@ -1,2 +1,2 @@
 # curso-git
-Curso de como usar o git e github
+Aprendendo a como usar o git e github.
