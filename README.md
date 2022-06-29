@@ -1,2 +1,4 @@
 # curso-git
-Aprendendo a como usar o git e github.
+Curso sobre conceitos base do git e github.
+
+Curso -> https://www.youtube.com/watch?v=kB5e-gTAl_s
